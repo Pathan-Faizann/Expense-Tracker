@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getExchangeRate } from "../services/currencyApi";
+import { getExchangeRate } from "../services/CurrencyApi";
 
 const currencies = ["USD", "INR", "EUR", "GBP", "AED", "JPY"];
 
